@@ -4,3 +4,5 @@ As it stands now, this is just a program that checks if a certain port is availa
 
 * Find out what service is running on the port
 * Find out potential vulnerabilites running on each port
+* Add threading (Important, will increase speed massively)
+* Add GUI
